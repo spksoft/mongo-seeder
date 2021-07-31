@@ -1,0 +1,23 @@
+{
+  "name": "mongo-seeder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spksoft/mongo-seeder.git"
+  },
+  "keywords": [
+    "mongo",
+    "seeder"
+  ],
+  "author": "spksoft (Sippakorn Raksakiart)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spksoft/mongo-seeder/issues"
+  },
+  "homepage": "https://github.com/spksoft/mongo-seeder#readme"
+}
